@@ -1,0 +1,1 @@
+Este documento descreve a visão do sistema de gestão para a Associação de Apicultores Pollen, alinhando stakeholders, requisitos e funcionalidades. Serve como base para o desenvolvimento e garantia de que o sistema atenderá às necessidades da associação.

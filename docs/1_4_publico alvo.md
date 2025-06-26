@@ -1,0 +1,1 @@
+Este documento destina-se a todas as partes envolvidas no desenvolvimento e uso do sistema, incluindo a equipe de desenvolvimento, coordenadores da associação, apicultores associados e demais stakeholders.
