@@ -13,7 +13,7 @@ export default defineConfig({
        {
          text: 'Dropdown Menu',
          items: [
-          { text: '1. Introducao', link: '/1_0_introducao' },
+          { text: '1. Introducao', link: '/1_0_Intoducao' },
           { text: '1.1. Objetivo', link: '/1_1objetivos' },
           { text: '1.2. Escopo', link: '/1_2_Escopo' },
           { text: '1.3. Definições', link: '/1_3_introducao' },
