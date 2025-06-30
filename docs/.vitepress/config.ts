@@ -8,10 +8,10 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: '1. Introducao', link: '/1_0_introducao' },
+      { text: 'example', link: '/example' },
   
        {
-         text: 'Dropdown Menu',
+         text: 'Menu',
          items: [
           { text: '1. Introducao', link: '/1_0_Intoducao' },
           { text: '1.1. Objetivo', link: '/1_1_objetivos' },
